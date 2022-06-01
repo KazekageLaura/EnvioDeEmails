@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  } 
+  body 
+  {
+    background-color:cadetblue;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  select, input{
+    display:flex;
+    margin-left: 30vw;
+    margin-top: 2vw;
+    width: 40%;
+    padding:10px;
+    border-radius: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
